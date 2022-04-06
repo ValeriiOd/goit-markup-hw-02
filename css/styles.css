@@ -108,7 +108,7 @@ body {
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
-    text-decoration: none;
+    color: var(--accent-color-text);
 }
 .site-nav {
     list-style-type: none;
